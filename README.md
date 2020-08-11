@@ -1,2 +1,2 @@
 # Eloquent-Javascript
-End of chapter exercises
+Chapter Exercises
